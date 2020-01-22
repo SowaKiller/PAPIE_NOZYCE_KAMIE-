@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1579631557 source:c:\users\marek\onedrive\pulpit\programowanie\nauka c++\papier_kamien_nozyce\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<string>
+
